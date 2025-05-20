@@ -128,4 +128,5 @@ Caso você não tenha a Branch develop:
 
 - [Canal no YouTube](https://www.youtube.com/@drumonddev/videos)
 - [Video - GitFlow na prática](https://youtu.be/xC7frT2JPGE)
+- [Video - GitFlow na teoría](https://www.youtube.com/watch?v=mRl_b7igTkc)
 - [Instagram](https://www.instagram.com/drumond.dev/)
